@@ -70,4 +70,5 @@ O script utiliza recursos avançados do Python para um gerenciamento de download
 
 
 ### Idealizador e Criador
-[SpellmanKing](www.linkedin.com/in/c-spellmank)
+
+[Calebe Ferreira](https://www.linkedin.com/in/c-spellmank)
