@@ -1,4 +1,4 @@
-# 🎶 YouTube MP3 Downloader Paralelo
+# 🎶 Sistema de Automação de Downloads de Músicas
 - Um script Python eficiente que utiliza a biblioteca yt-dlp para baixar o áudio de vídeos do YouTube e convertê-lo automaticamente para o formato MP3, aproveitando a execução paralela (multithreading) para processar vários downloads simultaneamente.
 
 # ⚙️ Pré-requisitos
